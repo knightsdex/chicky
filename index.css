@@ -42,7 +42,7 @@
 
 body {
   font-family: "Fredoka One", "Inter", sans-serif;
-  background: var(--bg-main);
+  background: hsl(133.4deg 34.75% 51.96%);
   background-image: radial-gradient(
       circle at 15% 15%,
       var(--p-pink) 0%,
