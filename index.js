@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // CA Copy Logic
   const copyBtn = document.getElementById("copy-btn");
-  const caValue = "0x9a82dF96f8D2c78e6a4B63cD01eD3ffC30111700";
+  const caValue = "0xComingSoon";
 
   if (copyBtn) {
     copyBtn.addEventListener("click", () => {
